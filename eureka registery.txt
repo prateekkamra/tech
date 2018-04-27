@@ -1,0 +1,4 @@
+server.port: 9095
+eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka/
+spring.application.name: EmployeeSearch
+eureka.instance.preferIpAddress=true
